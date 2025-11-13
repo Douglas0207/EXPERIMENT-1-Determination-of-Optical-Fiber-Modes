@@ -52,6 +52,11 @@ When V > 2.045, other modes may propagate, when V is slightly greater than 2.045
 
 ## 📊 OBSERVATION AND CALCULATION
 
+![IMG_1234](https://github.com/user-attachments/assets/a66685a7-9f44-46a0-9597-c49f83532b24)
+
+![IMG_1236](https://github.com/user-attachments/assets/9511c774-42d1-4ca8-ad15-d295b1658882)
+
+
 - 
 Parameter of given fiber are,
 A = 4.5μm (core radius), N.A = 0.11, λ = 633nm V = 2 π x A x N.A / λ = 4.91
@@ -59,5 +64,7 @@ From fig. shows only 4 LP modes propagates.
 Total number of modes = V2 / 2 = 4.912 / 2
 
 ---
-## Tabulation
+
 ## Result
+
+![IMG_1237](https://github.com/user-attachments/assets/1e4c9020-6bfe-488a-9586-f02bb58e6ed1)
